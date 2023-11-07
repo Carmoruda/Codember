@@ -6,15 +6,15 @@
 
 # [Codember](https://codember.dev)
 
-Problem-solving and clues to the secrets I encountered from the game [codember](https://codember.dev) by [@midudev](https://github.com/midudev/).
+Problem-solving and clues to the secrets and challenges I encountered from the game [codember](https://codember.dev) by [@midudev](https://github.com/midudev/).
 
 </div>
 
 ## Challenges
 
-|  Challenge  | Name                    |              |
-|:-----------:|:------------------------|:------------:|
-|     #01     | Spy encrypted messages  | [solution]() |
+|  Challenge  | Name                    |                                 |
+|:-----------:|:------------------------|:-------------------------------:|
+|     #01     | Spy encrypted messages  | [solution](./2023/Challenge_01) |
 
 ## Secrets
 

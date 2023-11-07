@@ -1,12 +1,12 @@
 # Challenges codember.dev
 
-<div align="center">
+<div style="text-align: center">
 
 ![Codember](./media/codember.png)
 
 # [Codember](https://codember.dev)
 
-Problem/solving and clues to the secrets I encountered from the game [codember](https://codember.dev) by [@midudev](https://github.com/midudev/).
+Problem-solving and clues to the secrets I encountered from the game [codember](https://codember.dev) by [@midudev](https://github.com/midudev/).
 
 </div>
 
@@ -14,7 +14,7 @@ Problem/solving and clues to the secrets I encountered from the game [codember](
 
 |  Challenge  | Name                    |              |
 |:-----------:|:------------------------|:------------:|
-| #01         | Spy encrypted messages  | [solution]() |
+|     #01     | Spy encrypted messages  | [solution]() |
 
 ## Secrets
 

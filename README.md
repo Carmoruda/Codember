@@ -1,6 +1,6 @@
 # Challenges codember.dev
 
-<div style="text-align: center">
+<div align="center">
 
 ![Codember](./media/codember.png)
 

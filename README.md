@@ -12,9 +12,10 @@ Problem-solving and clues to the secrets and challenges I encountered from the g
 
 ## Challenges
 
-|  Challenge  | Name                    |                                 |
-|:-----------:|:------------------------|:-------------------------------:|
-|     #01     | Spy encrypted messages  | [solution](./2023/Challenge_01) |
+| Challenge | Name                   |                                 |
+|:---------:|:-----------------------|:-------------------------------:|
+|    #01    | Spy encrypted messages | [solution](./2023/Challenge_01) |
+|    #02    | Mini compiler          | [solution](./2023/Challenge_02) | 
 
 ## Secrets
 

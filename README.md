@@ -26,3 +26,4 @@ Problem-solving and clues to the secrets and challenges I encountered from the g
 |  #03   | Konami code            |
 |  #04   | Confetti               |
 |  #05   | You have a new mail II | 
+|  #06   | Itsmagic               |

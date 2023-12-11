@@ -20,7 +20,7 @@ keys house HOUSE house keys -> keys2house3
 cup te a cup -> cup2te1a1
 houses house housess -> houses1house1housess1
 
-## How to Solve Itc
+## How to Solve It
 
 1. Solve the message you will find in this file: [message_01.txt](./message_01.txt)
 

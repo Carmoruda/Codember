@@ -1,4 +1,4 @@
-# The Challenge
+# The Spy Encryption Challenge
 
 A group of spies has discovered that their message encryption system is compromised.
 

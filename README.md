@@ -19,11 +19,13 @@ Problem-solving and clues to the secrets and challenges I encountered from the g
 
 ## Secrets
 
-| Secret | Name                   |
-|:------:|:-----------------------|
-|  #01   | Blurred picture        |
-|  #02   | You have a new mail    |
-|  #03   | Konami code            |
-|  #04   | Confetti               |
-|  #05   | You have a new mail II | 
-|  #06   | Itsmagic               |
+| Secret | Name                    |
+|:------:|:------------------------|
+|  #01   | Blurred picture         |
+|  #02   | You have a new mail     |
+|  #03   | Konami code             |
+|  #04   | Confetti                |
+|  #05   | You have a new mail II  | 
+|  #06   | Itsmagic                |
+|  #07   | Private folder          |
+|  #08   | Hidden commad final log |

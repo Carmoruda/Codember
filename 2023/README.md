@@ -1,8 +1,8 @@
-# Challenges codember.dev
+# CODEMBER 2023
 
 <div align="center">
 
-![Codember](./media/codember.png)
+![Codember](../media/codember.png)
 
 # [Codember](https://codember.dev)
 
@@ -12,13 +12,13 @@ Problem-solving and clues to the secrets and challenges I encountered from the g
 
 ## Challenges
 
-| Challenge | Name                          |                                 |
-|:---------:|:------------------------------|:-------------------------------:|
-|    #01    | 🕵️ Spy encrypted messages    | [solution](./2023/Challenge_01) |
-|    #02    | 🧮 Mini compiler              | [solution](./2023/Challenge_02) | 
-|    #03    | 🪪 The Spy Encryption         | [solution](./2023/Challenge_03) | 
-|    #04    | 📂 Hackers damage file system | [solution](./2023/Challenge_04) |
-|    #05    | 🔚 Final problem              | [solution](./2023/Challenge_05) |  
+| Challenge | Name                          |                                    |
+|:---------:|:------------------------------|:----------------------------------:|
+|    #01    | 🕵️ Spy encrypted messages    | [solution](./Challenge_01/main.py) |
+|    #02    | 🧮 Mini compiler              | [solution](./Challenge_02/main.py) | 
+|    #03    | 🪪 The Spy Encryption         | [solution](./Challenge_03/main.py) | 
+|    #04    | 📂 Hackers damage file system | [solution](./Challenge_04/main.py) |
+|    #05    | 🔚 Final problem              | [solution](./Challenge_05/main.py) |  
 
 ## Secrets
 
